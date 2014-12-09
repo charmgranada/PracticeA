@@ -1,4 +1,4 @@
 Changes from master branch
 added changes
 additional content
-new branch dev_1.1, plus changes 1
+new branch dev_1.1, plus changes 1, 2
